@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Swift
+.build
+Packages
+Package.resolved
+xcuserdata
+*.xcscmblueprint
+
+# Test
+test.db
